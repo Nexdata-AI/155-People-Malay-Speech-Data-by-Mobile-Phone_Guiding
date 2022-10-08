@@ -1,8 +1,10 @@
 # 155-People-Malay-Speech-Data-by-Mobile-Phone_Guiding
-https://www.datatang.ai/datasets/172
+
 
 ## Description
 155 Malaysian local speakers participated in the recording and the recoring environment is quiet. The recordings contain various categories like in-car scene, home, speech assistant. 50 sentences for each speaker. The valid time is 7 hours. All texts are manually transcribed with high accuracy.
+
+For more details, please refer to the link: https://bit.ly/3C8CU3p
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, 4 special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
