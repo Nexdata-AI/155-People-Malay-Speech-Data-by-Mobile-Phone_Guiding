@@ -4,7 +4,8 @@
 ## Description
 155 Malaysian local speakers participated in the recording and the recoring environment is quiet. The recordings contain various categories like in-car scene, home, speech assistant. 50 sentences for each speaker. The valid time is 7 hours. All texts are manually transcribed with high accuracy.
 
-For more details, please refer to the link: https://bit.ly/3C8CU3p
+For more details, please refer to the link: https://www.nexdata.ai/datasets/172?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
